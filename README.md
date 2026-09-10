@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hey, I'm quinnfx965 👋
 
-<!--
-**quinnfx965/quinnfx965** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data analyst based in Berlin. Spend most days cleaning messy CSVs, tuning queries, and building lightweight automation scripts.
 
-Here are some ideas to get you started:
+### What I do
+- 📊 Analytics and pipeline maintenance at Data Insights
+- 🦆 Local data tinkering: testing DuckDB against local datasets, writing small CLI tools
+- 📚 Exploring: modern data stack alternatives and Polars
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech I use
+- **Languages & Analysis:** Python, SQL, Pandas, NumPy, DuckDB
+- **Tools & Workflow:** Jupyter, PostgreSQL, Git, VS Code, Bash
+
+### Connect
+- GitHub Discussions: open an issue or thread
+- Email: quinnfx965@proton.me
+- LinkedIn: linkedin.com/in/quinnfx965
